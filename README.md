@@ -15,6 +15,7 @@ Quiz yourself on the legends and current icons of the NBA! 🏀 A simple, respon
 
 ##  Project Structure
 
+```
 NBA-Quiz-App
 ├── public/ # Static assets (served as-is)
 ├── src/ # Application source code
@@ -26,6 +27,7 @@ NBA-Quiz-App
 ├── package.json # Project metadata & dependencies
 ├── vite.config.js # Vite configuration
 └── README.md # Project documentation
+```
 
 ---
 
